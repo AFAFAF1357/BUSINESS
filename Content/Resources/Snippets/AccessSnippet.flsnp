@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <div>
+            <p>You can access the registration form in two ways:</p>
+            <ul>
+                <li>electronically </li>
+                <li>on paper</li>
+            </ul>
+            <p>To access and fill in the registration form electronically, you need to use a method of confirming your identity. </p>
+            <p>You can use any of the following methods of confirming your identity:</p>
+            <ul>
+                <li>profil zaufany (trusted profile)</li>
+                <li>e-dowód (Polish e-ID&#160;card)</li>
+                <li>a bank account in one of the banks that offer a confirmation of your identity</li>
+            </ul>
+            <MadCap:dropDown>
+                <MadCap:dropDownHead>
+                    <MadCap:dropDownHotspot>If you can use one of the above methods of confirming your identity, you can fill in the registration application online. Follow these steps:</MadCap:dropDownHotspot>
+                </MadCap:dropDownHead>
+                <MadCap:dropDownBody>
+                    <ol>
+                        <li>Go to website <a href="https://www.biznes.gov.pl/pl" target="_blank">Biznes.gov.pl</a></li>
+                        <li>Click the button "Zarejestruj firmę" (Register your business)<br /><img src="../Images/access1.png" style="width: 555px;height: 346px;" /></li>
+                        <li>Click the button "Rozpocznij"&#160;(Start)<br /><img src="../Images/access2.png" style="width: 528px;height: 256px;" /></li>
+                        <li>You will have two login options:<ul><li>Log in via Login.gov.pl (Zaloguj się przez Login.gov.pl)</li><li>Log in using our e-mail (Zaloguj się przez e-mail}</li></ul></li>
+                    </ol>
+                    <p>Choose the one that you want to use.</p>
+                    <p>
+                        <br />
+                        <img src="../Images/access3.png" style="width: 638px;height: 517px;" />
+                    </p>
+                </MadCap:dropDownBody>
+            </MadCap:dropDown>
+            <MadCap:dropDown>
+                <MadCap:dropDownHead>
+                    <MadCap:dropDownHotspot>If you do not have any of the above methods of confirming your identity, will need to prepare a paper version of your application. Follow these steps:</MadCap:dropDownHotspot>
+                </MadCap:dropDownHead>
+                <MadCap:dropDownBody>
+                    <ol>
+                        <li>Go to this <a href="https://zaplecze.biznes.gov.pl/files/document_attachments/2202/CEIDG1_v_211.pdf">page</a></li>
+                        <li>Download the form to your computer and save it.</li>
+                        <li>Then you can either:</li>
+                    </ol>
+                    <ul>
+                        <li>Print the form and fill it in with a pen</li>
+                        <li>Fill it in the Acrobat, using the "Fill in and sign" function. Then print it. </li>
+                    </ul>
+                </MadCap:dropDownBody>
+            </MadCap:dropDown>
+        </div>
+    </body>
+</html>

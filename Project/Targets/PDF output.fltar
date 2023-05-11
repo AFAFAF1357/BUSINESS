@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="New Target"
+  Type="PDF"
+  Destinations=""
+  ShowMadCapBacklink="true"
+  GlossaryTermConversion="marked"
+  MasterStylesheet="/Content/Resources/Stylesheets/MainStyles.css"
+  ConditionTagExpression="include[&quot;disclaimer for web.ScreenOnly&quot;], exclude[&quot;disclaimer for web.PrintOnly&quot;]"
+  PatchHeadingLevels="true"
+  ResolveCssVariables="false"
+  MasterPageLayout="/Content/Resources/PageLayouts/Print Page.flpgl"
+  OutputFolder="C:\Users\afabi\OneDrive\Desktop"
+  MasterToc="/Project/TOCs/TOC for PDF.fltoc"
+  GetLatestBeforeCompile="true">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true"
+    OutputFormat="docx"
+    ExpandingTextConversion="expand" />
+  <PDF
+    Tagged="true"
+    TitleBar="DocumentTitle" />
+</CatapultTarget>
